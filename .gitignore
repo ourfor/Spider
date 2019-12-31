@@ -1,0 +1,12 @@
+out/*
+build/*
+.idea/*
+.gradle/*
+.DS_Store
+src/main/resources/application.properties
+src/main/resources/application.yml
+src/main/resources/start.yml
+*.iml
+*.ipr
+*.iws
+gradle/
